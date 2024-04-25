@@ -1,4 +1,3 @@
-~ "lib.ua" ~ ChangeSpeed
-~ "samples.ua" ~ AmenBreak
+~ "lib.ua" ~ AmenBreak ChangeSpeed
 
 &ap /◇⊂ ∵(□ ChangeSpeed: AmenBreak)⇌+0.6÷10⇡ 5
