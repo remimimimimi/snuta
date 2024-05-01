@@ -14,6 +14,12 @@ CombinedChannel ← /+
 
 ReadWavFile ← ◌°&ae&frab
 
+# Macro that allows different ways of combining two samples list
+#
+# Args: binary function, overlap length, list1, list2
+# Connect! ← ⊂⊂⊙^!⊃(⊃(↙|↘)-:⧻,|⋅⊃(↙|↘):)
+Connect! ← ⊂⊂⊙^!∩⊃(↙|↘)⊃(-:⧻,|⊙◌)
+
 # Deterministically shuffle list
 #
 # NOTE: I'm not sure that this function satisfies required properties, e.g is
