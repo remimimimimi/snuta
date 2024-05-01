@@ -17,7 +17,6 @@ ReadWavFile ← ◌°&ae&frab
 # Macro that allows different ways of combining two samples list
 #
 # Args: binary function, overlap length, list1, list2
-# Connect! ← ⊂⊂⊙^!⊃(⊃(↙|↘)-:⧻,|⋅⊃(↙|↘):)
 Connect! ← ⊂⊂⊙^!∩⊃(↙|↘)⊃(-:⧻,|⊙◌)
 
 # Deterministically shuffle list
